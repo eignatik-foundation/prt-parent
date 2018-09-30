@@ -40,7 +40,7 @@
 
     <distributionManagement>
         <repository>
-            <id>dev-azure.com-perfo-artifacts</id>
+            <id>snapshot</id>
             <layout>default</layout>
             <url>https://pkgs.dev.azure.com/perfo-foundation/_packaging/perfo-artifacts/maven/v1</url>
         </repository>
