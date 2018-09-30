@@ -25,6 +25,17 @@
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
+
+        <repository>
+            <id>dev-azure.com-perfo-artifacts</id>
+            <url>https://pkgs.dev.azure.com/perfo-foundation/_packaging/perfo-artifacts/maven/v1</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
     </repositories>
 
     <parent>
